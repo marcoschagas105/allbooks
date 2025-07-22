@@ -19,5 +19,5 @@ server.use(router) //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log("Seja Bem-Vindo a API")
-  console.log("Acesse a API pelo endereço http://localhost:8000")
+  console.log("Acesse a API pela Url http://localhost:8000")
 })
